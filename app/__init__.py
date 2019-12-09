@@ -9,3 +9,6 @@ def create_app():
     app.register_blueprint(views.bp)
 
     return app
+
+a=1000
+print(a)
